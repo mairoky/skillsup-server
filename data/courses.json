@@ -3,7 +3,7 @@
         "id": "2053e213-a5d7-46de-b495-06ba7855870d",
         "course": {
             "title": "The Complete Web Development Bootcamp",
-            "image": "https://drive.google.com/file/d/1uWCA5ZG2waf-o6U3PJ-CMJLRd4xryhtT/view?usp=sharing",
+            "image": "https://drive.google.com/uc?export=view&id=1uWCA5ZG2waf-o6U3PJ-CMJLRd4xryhtT",
             "rating": "4.7",
             "price": "$95.82",
             "lessonNumber": "92",
@@ -21,7 +21,7 @@
         ],
         "instructor ": {
             "name": "Kristopher Rippin",
-            "image": "https://drive.google.com/file/d/10K4TxNuLQdf9mvQdNS2df5xndkYRu8BC/view?usp=sharing",
+            "image": "https://drive.google.com/uc?export=view&id=10K4TxNuLQdf9mvQdNS2df5xndkYRu8BC",
             "id": "10f8bf42-2711-41b6-ac8a-67da20acef98"
         },
         "lastUpdate": "2022-01-08",
@@ -41,7 +41,7 @@
         "id": "0cbe2ab3-5476-451a-ab37-787eb90aefc7",
         "course": {
             "title": "Zero to Hero in Python",
-            "image": "https://drive.google.com/file/d/1owqQ2Bg0zr9IkwhLpLBncMChj4r8ko7j/view?usp=sharing",
+            "image": "https://drive.google.com/uc?export=view&id=1owqQ2Bg0zr9IkwhLpLBncMChj4r8ko7j",
             "rating": "4.4",
             "price": "$65.82",
             "lessonNumber": "72",
@@ -59,7 +59,7 @@
         ],
         "instructor ": {
             "name": "Ted Abshire",
-            "image": "https://drive.google.com/file/d/1WHCaHWQOEB3njp1RGmFZnHmQ1fJHc28D/view?usp=sharing",
+            "image": "https://drive.google.com/uc?export=view&id=1WHCaHWQOEB3njp1RGmFZnHmQ1fJHc28D",
             "id": "2152377e-2813-4f76-a39c-e7222f9de6b9"
         },
         "lastUpdate": "2022-10-04",
@@ -78,7 +78,7 @@
         "id": "8aa30479-b0a6-41c7-b2ad-ac9e05030a58",
         "course": {
             "title": "React - The Complete Guide",
-            "image": "https://drive.google.com/file/d/1Sv1My4j3ltJrv5wpqWH6qHOw5Fkeb1eg/view?usp=sharing",
+            "image": "https://drive.google.com/uc?export=view&id=1Sv1My4j3ltJrv5wpqWH6qHOw5Fkeb1eg",
             "rating": "4.8",
             "price": "$81.16",
             "lessonNumber": "61",
@@ -95,7 +95,7 @@
         ],
         "instructor ": {
             "name": "Sophie Prosacco",
-            "image": "https://drive.google.com/file/d/1LQQ9kOaJ-Bj0tK5UTZHNTPE5xcSK4mqn/view?usp=sharing",
+            "image": "https://drive.google.com/uc?export=view&id=1LQQ9kOaJ-Bj0tK5UTZHNTPE5xcSK4mqn",
             "id": "1c2559b4-7b12-40d2-b4e1-e52438aa7cea"
         },
         "lastUpdate": "2022-05-16",
@@ -114,7 +114,7 @@
         "id": "0384def3-7a6b-41cd-962f-bde7d448f19e",
         "course": {
             "title": "Javascript for Beginners",
-            "image": "https://drive.google.com/file/d/1A3Wsx4JbLPFKA698S8H8Tu5-qp49oYdv/view?usp=sharing",
+            "image": "https://drive.google.com/uc?export=view&id=1A3Wsx4JbLPFKA698S8H8Tu5-qp49oYdv",
             "rating": "4.6",
             "price": "$69.40",
             "lessonNumber": "31",
@@ -132,7 +132,7 @@
         ],
         "instructor ": {
             "name": "Ray Donnelly",
-            "image": "https://drive.google.com/file/d/1qLTyzY3TJb2G0EU85Zbf8JIEI13At3lh/view?usp=sharing",
+            "image": "https://drive.google.com/uc?export=view&id=1qLTyzY3TJb2G0EU85Zbf8JIEI13At3lh",
             "id": "b9c1dacc-c061-452b-a2f1-462e787975d0"
         },
         "lastUpdate": "2022-10-10",
@@ -152,7 +152,7 @@
         "id": "6120eab2-fe83-40ee-a24f-efc077d7576f",
         "course": {
             "title": "The Complete SQL and MySQL Course",
-            "image": "https://drive.google.com/file/d/1JGLVjCaBbIwaJhHQWG0cXF64f9KmXT8C/view?usp=sharing",
+            "image": "https://drive.google.com/uc?export=view&id=1JGLVjCaBbIwaJhHQWG0cXF64f9KmXT8C",
             "rating": "5.0",
             "price": "$29.40",
             "lessonNumber": "44",
@@ -170,7 +170,7 @@
         ],
         "instructor ": {
             "name": "Neal Rodriguez",
-            "image": "https://drive.google.com/file/d/10NFnadiP6qAIWZ_7iSen4KiW7xYgtPmN/view?usp=sharing",
+            "image": "https://drive.google.com/uc?export=view&id=10NFnadiP6qAIWZ_7iSen4KiW7xYgtPmN",
             "id": "7ac1e75a-d4fb-4e46-bc9b-e27e141857b5"
         },
         "lastUpdate": "2022-03-01",
@@ -188,7 +188,7 @@
         "id": "454f0bd8-6598-4005-8047-bdc30697c380",
         "course": {
             "title": "MERN: The Complete Bootcamp",
-            "image": "https://drive.google.com/file/d/1tT-guY94AmRRKA4Nzxb3yxnObbFfbx8r/view?usp=sharing",
+            "image": "https://drive.google.com/uc?export=view&id=1tT-guY94AmRRKA4Nzxb3yxnObbFfbx8r",
             "rating": "5.0",
             "price": "$90.76",
             "lessonNumber": "69",
@@ -205,7 +205,7 @@
         ],
         "instructor ": {
             "name": "Billie Beier",
-            "image": "https://drive.google.com/file/d/1ZMQ3aOHHX64yW1I4JgENNBdnh7XXcPif/view?usp=sharing",
+            "image": "https://drive.google.com/uc?export=view&id=1ZMQ3aOHHX64yW1I4JgENNBdnh7XXcPif",
             "id": "2d1a36d1-22ef-4803-b183-3d7489d1ecdb"
         },
         "lastUpdate": "2022-08-18",
