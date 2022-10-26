@@ -158,7 +158,7 @@
             "lessonNumber": "44",
             "duration": "21",
             "lectures": "44",
-            "quizzes": "9"
+            "quizzes": "10"
         },
         "shortDes": "Learn the Basics of Managing Data with SQL - Basics, Transactions, Views, Pages and Stored Procedures",
         "des": "In this course you can learn the fundamental basics of data management with SQL and MySQL. Learn everything that you will need to make queries with the most popular data manipulating programming language - SQL. This course is about SQL commands in the main. You will learn the basics of queries.",
