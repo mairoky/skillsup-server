@@ -2,10 +2,10 @@
     {
         "id": "2053e213-a5d7-46de-b495-06ba7855870d",
         "course": {
-            "title": "The Complete Web Development Bootcamp",
+            "title": "Complete Web Development",
             "image": "https://drive.google.com/uc?export=view&id=1uWCA5ZG2waf-o6U3PJ-CMJLRd4xryhtT",
             "rating": "4.7",
-            "price": "$95.82",
+            "price": "95.82",
             "lessonNumber": "92",
             "duration": "65",
             "lectures": "24",
@@ -19,13 +19,13 @@
             "Learn professional developer best practices",
             "Master backend development with Node"
         ],
-        "instructor ": {
+        "instructor": {
             "name": "Kristopher Rippin",
             "image": "https://drive.google.com/uc?export=view&id=10K4TxNuLQdf9mvQdNS2df5xndkYRu8BC",
             "id": "10f8bf42-2711-41b6-ac8a-67da20acef98"
         },
         "lastUpdate": "2022-01-08",
-        "language ": "English",
+        "language": "English",
         "targetAudience": [
             "If you want to learn to code through building fun and useful projects, then take this course.",
             "If you want to start your own startup by building your own websites and web apps.",
@@ -43,7 +43,7 @@
             "title": "Zero to Hero in Python",
             "image": "https://drive.google.com/uc?export=view&id=1owqQ2Bg0zr9IkwhLpLBncMChj4r8ko7j",
             "rating": "4.4",
-            "price": "$65.82",
+            "price": "65.82",
             "lessonNumber": "72",
             "duration": "60",
             "lectures": "20",
@@ -57,13 +57,13 @@
             "You will be able to use Python for your own work problems or personal projects.",
             "You will create a portfolio of Python based projects you can share."
         ],
-        "instructor ": {
+        "instructor": {
             "name": "Ted Abshire",
             "image": "https://drive.google.com/uc?export=view&id=1WHCaHWQOEB3njp1RGmFZnHmQ1fJHc28D",
             "id": "2152377e-2813-4f76-a39c-e7222f9de6b9"
         },
         "lastUpdate": "2022-10-04",
-        "language ": "English",
+        "language": "English",
         "targetAudience": [
             "Beginners who have never programmed before.",
             "Programmers switching languages to Python.",
@@ -80,7 +80,7 @@
             "title": "React - The Complete Guide",
             "image": "https://drive.google.com/uc?export=view&id=1Sv1My4j3ltJrv5wpqWH6qHOw5Fkeb1eg",
             "rating": "4.8",
-            "price": "$81.16",
+            "price": "81.16",
             "lessonNumber": "61",
             "duration": "21",
             "lectures": "44",
@@ -93,13 +93,13 @@
             "Provide amazing user experiences by leveraging the power of JavaScript with ease",
             "Learn all about React Hooks and React Components"
         ],
-        "instructor ": {
+        "instructor": {
             "name": "Sophie Prosacco",
             "image": "https://drive.google.com/uc?export=view&id=1LQQ9kOaJ-Bj0tK5UTZHNTPE5xcSK4mqn",
             "id": "1c2559b4-7b12-40d2-b4e1-e52438aa7cea"
         },
         "lastUpdate": "2022-05-16",
-        "language ": "English",
+        "language": "English",
         "targetAudience": [
             "Anyone who's interested in learning an extremely popular technology",
             "Students who want to learn how to build reactive and fast web apps"
@@ -116,7 +116,7 @@
             "title": "Javascript for Beginners",
             "image": "https://drive.google.com/uc?export=view&id=1A3Wsx4JbLPFKA698S8H8Tu5-qp49oYdv",
             "rating": "4.6",
-            "price": "$69.40",
+            "price": "69.40",
             "lessonNumber": "31",
             "duration": "100",
             "lectures": "64",
@@ -130,13 +130,13 @@
             "Learn to write Javascript loops",
             "Learn to about Javascript variables"
         ],
-        "instructor ": {
+        "instructor": {
             "name": "Ray Donnelly",
             "image": "https://drive.google.com/uc?export=view&id=1qLTyzY3TJb2G0EU85Zbf8JIEI13At3lh",
             "id": "b9c1dacc-c061-452b-a2f1-462e787975d0"
         },
         "lastUpdate": "2022-10-10",
-        "language ": "English",
+        "language": "English",
         "targetAudience": [
             "This course is meant for absolute beginners of Javascript",
             "This course is meant for students that struggled to learn the language before",
@@ -151,10 +151,10 @@
     {
         "id": "6120eab2-fe83-40ee-a24f-efc077d7576f",
         "course": {
-            "title": "The Complete SQL and MySQL Course",
+            "title": "The Complete SQL and MySQL",
             "image": "https://drive.google.com/uc?export=view&id=1JGLVjCaBbIwaJhHQWG0cXF64f9KmXT8C",
             "rating": "5.0",
-            "price": "$29.40",
+            "price": "29.40",
             "lessonNumber": "44",
             "duration": "21",
             "lectures": "44",
@@ -168,13 +168,13 @@
             "understand database management systems (DBMSs) and database languages",
             "understand stored procedures"
         ],
-        "instructor ": {
+        "instructor": {
             "name": "Neal Rodriguez",
             "image": "https://drive.google.com/uc?export=view&id=10NFnadiP6qAIWZ_7iSen4KiW7xYgtPmN",
             "id": "7ac1e75a-d4fb-4e46-bc9b-e27e141857b5"
         },
         "lastUpdate": "2022-03-01",
-        "language ": "English",
+        "language": "English",
         "targetAudience": [
             "This course is mean for newbies who are not familiar with SQL syntax or just want to refresh the knowledge"
         ],
@@ -190,7 +190,7 @@
             "title": "MERN: The Complete Bootcamp",
             "image": "https://drive.google.com/uc?export=view&id=1tT-guY94AmRRKA4Nzxb3yxnObbFfbx8r",
             "rating": "5.0",
-            "price": "$90.76",
+            "price": "90.76",
             "lessonNumber": "69",
             "duration": "92",
             "lectures": "38",
@@ -203,13 +203,13 @@
             "Build a fast, scalable, feature-rich RESTful API (includes filters, sorts, pagination, and much more)",
             "Build a complete, beautiful & real-world application from start to finish (API and server-side rendered website)"
         ],
-        "instructor ": {
+        "instructor": {
             "name": "Billie Beier",
             "image": "https://drive.google.com/uc?export=view&id=1ZMQ3aOHHX64yW1I4JgENNBdnh7XXcPif",
             "id": "2d1a36d1-22ef-4803-b183-3d7489d1ecdb"
         },
         "lastUpdate": "2022-08-18",
-        "language ": "English",
+        "language": "English",
         "targetAudience": [
             "Take this course if you want to build amazingly fast and scalable back-end applications using the JavaScript skills you already have. Node is the perfect tool for you!",
             "Take this course if you're a front-end developer looking to go into back-end development using the most complete course on the market."
